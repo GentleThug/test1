@@ -1,4 +1,4 @@
-package io.sea.github.GentleThug.utils;
+package io.github.GentleThug.utils;
 
 import lombok.extern.slf4j.Slf4j;
 

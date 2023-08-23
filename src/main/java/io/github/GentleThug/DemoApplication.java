@@ -1,4 +1,4 @@
-package io.sea.github.GentleThug;
+package io.github.GentleThug;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
